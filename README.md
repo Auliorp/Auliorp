@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auliorp&label=Profile%20views&color=0e75b6&style=flat" alt="auliorp" /> </p>
 
-- 🔭 Actualmente estoy trabajando en [A.D.I.P web](https://front-deploy-adipweb.onrender.com)
+- 🔭 ultimo proyecto [A.D.I.P web](https://front-deploy-adipweb.onrender.com)
 
 - 🌱 actualmente estoy aprendiendo **estoy reforzando en TypeScript y TypeORM**
 
