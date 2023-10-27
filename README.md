@@ -5,7 +5,7 @@
 
 - 🔭 ultimo proyecto [A.D.I.P web](https://front-deploy-adipweb.onrender.com)
 
-- 🌱 actualmente estoy aprendiendo **TypeScript y TypeORM, NextJs**
+- 🌱 actualmente estoy aprendiendo **TypeScript, TypeORM y NextJs**
 
 - 💬 Preguntame sobre **reactJs, ReduxJs, MySQL, JavasCript, Express, Sequelize, TypeScript**
 
