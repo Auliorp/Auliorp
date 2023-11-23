@@ -7,7 +7,7 @@
 
 - 🌱 actualmente estoy aprendiendo **TypeScript, TypeORM y NextJs**
 
-- 💬 Preguntame sobre **reactJs, ReduxJs, MySQL, JavasCript, Express, Sequelize, TypeScript**
+- 💬 Preguntame sobre **JavasCript, NodeJs, Express, Sequelize, PostgreSQL, reactJs, ReduxJs, CSS**
 
 - 📫 como llegar a mi **aulioroveroparedes@gmail.com**
 
