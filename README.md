@@ -11,7 +11,7 @@
 
 - 📫 como llegar a mi **aulioroveroparedes@gmail.com**
 
-- ⚡ diversión **trabajo en equipo y mucha diversión**
+- ⚡ diversión **trabajo en equipo y responsabilidad**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
