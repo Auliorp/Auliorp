@@ -5,9 +5,9 @@
 
 - 🔭 ultimo proyecto [A.D.I.P web](https://front-deploy-adipweb.onrender.com)
 
-- 🌱 actualmente estoy aprendiendo **TypeScript, TypeORM y NextJs**
+- 🌱 actualmente estoy aprendiendo **TypeScript, NextJs, Dart y Flutter**
 
-- 💬 Preguntame sobre **JavasCript, NodeJs, Express, Sequelize, PostgreSQL, reactJs, ReduxJs, CSS**
+- 💬 Preguntame sobre **JavasCript, NodeJs, Express, Sequelize, PostgreSQL, reactJs, ReduxJs, CSS, Bootstrap**
 
 - 📫 como llegar a mi **aulioroveroparedes@gmail.com**
 
