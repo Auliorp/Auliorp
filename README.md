@@ -5,7 +5,7 @@
 
 - 🔭 ultimo proyecto [A.D.I.P web](https://front-deploy-adipweb.onrender.com)
 
-- 🌱 actualmente estoy aprendiendo **TypeScript, NextJs, Dart y Flutter**
+- 🌱 actualmente estoy reforzando conocimientos en **TypeScript y Angular**
 
 - 💬 Preguntame sobre **JavasCript, NodeJs, Express, Sequelize, PostgreSQL, reactJs, ReduxJs, CSS, Bootstrap**
 
