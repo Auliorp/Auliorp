@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auliorp&label=Profile%20views&color=0e75b6&style=flat" alt="auliorp" /> </p>
 
-- 🔭 ultimo proyecto [A.D.I.P web](https://front-deploy-adipweb.onrender.com)
+- 🌱 actualmente estoy trabajando como desarrollador Front-end en una startups financiera llamada Cuadra 
 
-- 🌱 actualmente estoy reforzando conocimientos en **TypeScript y Angular**
-
-- 💬 Preguntame sobre **JavasCript, NodeJs, Express, Sequelize, PostgreSQL, reactJs, ReduxJs, CSS, Bootstrap**
+- 💬 Preguntame sobre **JavasCript, TypeScript, ReactJs, Angular, ReduxJs, CSS, Bootstrap, Dart, Flutter, NodeJs, Express, Sequelize, PostgreSQL**
 
 - 📫 como llegar a mi **aulioroveroparedes@gmail.com**
 
